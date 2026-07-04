@@ -168,6 +168,5 @@ The dataset contains information about:
 
 B.Tech CSE (Data Science)
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https:https://github.com/vineetkray
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
